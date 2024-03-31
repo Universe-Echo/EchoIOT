@@ -36,7 +36,7 @@ const SigninForm = () => {
         </button>
         <div className={styles.registerLink}>
           <p>
-            Don't have an account?{" "}
+            Don&apos;t have an account?
             <a href="" className={styles.registerBtn}>
               Create Account
             </a>
