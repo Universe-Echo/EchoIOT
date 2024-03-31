@@ -1,0 +1,24 @@
+.signBody {
+  background: #ffffff;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url("../../../assets/20231016004349_IMG_8317\(1\).JPG");
+  background-size: cover;
+  background-position: center;
+  /* background: linear-gradient(
+    90deg,
+    hsla(191, 88%, 81%, 1) 0%,
+    hsla(260, 72%, 82%, 1) 50%,
+    hsla(247, 73%, 69%, 1) 100%
+  ); */
+  /* background: linear-gradient(
+    90deg,
+    hsla(228, 17%, 53%, 1) 0%,
+    hsla(229, 28%, 88%, 1) 100%
+  ); */
+}
